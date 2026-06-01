@@ -2,7 +2,7 @@
 
 I build the platforms other engineers deploy on. NixOS, Proxmox, and IaC tooling for declarative infrastructure across bare metal and cloud. Distributed orchestration, observability, and the reliability work that keeps services, data, and AI workloads running.
 
-Writing at **[ajimenez.dev](https://ajimenez.dev)** *(WIP)*.
+Writing at **[ajimenez.dev](https://ajimenez.dev)**.
 
 ### Around here
 
